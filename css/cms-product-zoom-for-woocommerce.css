@@ -1,0 +1,12 @@
+img.attachment-thumbnail.size-thumbnail.wp-post-image:hover {
+    transform: scale(3);
+    transition: all .2s;
+    transition-timing-function: ease-in-out;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.08);
+    border-radius: 1px;
+}
+
+img.attachment-thumbnail.size-thumbnail.wp-post-image {
+    transition: all .2s;
+    transition-timing-function: ease-in-out;
+}
